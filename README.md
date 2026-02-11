@@ -17,10 +17,10 @@ This project performs exploratory data analysis on a Netflix dataset using Pytho
 ## Visualizations
 
 ### Ratings Distribution
-![Ratings Chart](images/ratings_bar.png)
+![Ratings Chart](Netflix_result_barchart.png)
 
 ### Movies vs TV Shows
-![Type Chart](images/movies_vs_tv.png)
+![Type Chart](Netflix_result_piechart.png)
 
 ## Key Insights
 - TV-MA and TV-14 are the most common ratings
