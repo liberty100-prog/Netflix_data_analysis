@@ -1,25 +1,28 @@
 # Netflix Data Analysis
 
-This project performs exploratory data analysis on the Netflix titles dataset using Python.
+This project performs exploratory data analysis on a Netflix dataset using Python.
 
-## Objectives
-- Clean and preprocess the dataset
-- Analyze distribution of content ratings
-- Compare Movies vs TV Shows
-- Visualize insights using charts
-
-## Steps Performed
-- Removed missing and duplicate values
-- Fixed incorrect rating entries
-- Generated bar chart for rating distribution
-- Generated pie chart for Movies vs TV Shows
+## Tasks Performed
+- Data cleaning and preprocessing
+- Handling missing values
+- Removing incorrect rating entries
+- Visualization of ratings distribution
+- Comparison of Movies vs TV Shows
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
 
+## Visualizations
+
+### Ratings Distribution
+![Ratings Chart](images/ratings_bar.png)
+
+### Movies vs TV Shows
+![Type Chart](images/movies_vs_tv.png)
+
 ## Key Insights
-- Majority of Netflix content is rated TV-MA and TV-14
-- Movies make up the largest portion of the catalog
-- Very few titles fall under G rating
+- TV-MA and TV-14 are the most common ratings
+- Movies make up the majority of Netflix content
+- Few titles fall under G rating
